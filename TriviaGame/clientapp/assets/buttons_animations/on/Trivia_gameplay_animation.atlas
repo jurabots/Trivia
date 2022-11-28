@@ -1,0 +1,20 @@
+
+Trivia_gameplay_animation.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trivia_button1
+  rotate: false
+  xy: 705, 2
+  size: 700, 131
+  orig: 700, 131
+  offset: 0, 0
+  index: -1
+trivia_button1_active
+  rotate: false
+  xy: 2, 2
+  size: 701, 131
+  orig: 701, 131
+  offset: 0, 0
+  index: -1

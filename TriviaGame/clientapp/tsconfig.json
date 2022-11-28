@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "./dist/",
+        "removeComments": true,
+        "sourceMap": true,
+        "watch": false,
+        "module": "es6",
+        "jsx": "react",
+        "allowJs": true,
+        "lib": ["es2015", "dom", "es2017"],
+        "noImplicitAny": false,
+        "baseUrl": ".",
+        "paths": {
+            "*": ["types/*"],
+            "gsap": ["node_modules/gsap/TweenMax"], // This mapping is relative to "baseUrl"
+            "pixi.js": ["node_modules/@types/pixi.js"],
+            "@microsoft/signalr": ["node_modules/@microsoft/signalr/dist/esm/index.d.ts"],
+        },
+        "typeRoots" : ["node_modules/@microsoft/signalr/dist/esm"],
+    },
+    "filesGlob": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "lib": [
+        "dom",
+        "es7"
+    ],
+}

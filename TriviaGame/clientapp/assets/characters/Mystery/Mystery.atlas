@@ -1,0 +1,48 @@
+
+Mystery.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_blue
+  rotate: false
+  xy: 2, 146
+  size: 239, 298
+  orig: 239, 298
+  offset: 0, 0
+  index: -1
+hand_1_blue
+  rotate: false
+  xy: 2, 2
+  size: 100, 142
+  orig: 100, 142
+  offset: 0, 0
+  index: -1
+hand_2_blue
+  rotate: false
+  xy: 243, 302
+  size: 100, 142
+  orig: 100, 142
+  offset: 0, 0
+  index: -1
+leg_1_blue
+  rotate: false
+  xy: 243, 196
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+leg_2_blue
+  rotate: false
+  xy: 345, 340
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+whaaat
+  rotate: false
+  xy: 104, 36
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1

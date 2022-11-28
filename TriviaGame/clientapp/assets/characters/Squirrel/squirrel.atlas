@@ -1,0 +1,174 @@
+
+squirrel.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+squirrel_body
+  rotate: false
+  xy: 2, 117
+  size: 315, 393
+  orig: 315, 393
+  offset: 0, 0
+  index: -1
+squirrel_left_ear
+  rotate: true
+  xy: 161, 36
+  size: 79, 103
+  orig: 79, 103
+  offset: 0, 0
+  index: -1
+squirrel_left_eye
+  rotate: true
+  xy: 941, 444
+  size: 66, 81
+  orig: 66, 81
+  offset: 0, 0
+  index: -1
+squirrel_left_eye_dissapointed
+  rotate: false
+  xy: 266, 33
+  size: 70, 82
+  orig: 70, 82
+  offset: 0, 0
+  index: -1
+squirrel_left_eye_happy_bonus
+  rotate: false
+  xy: 779, 368
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+squirrel_left_hand_part2
+  rotate: false
+  xy: 319, 120
+  size: 150, 51
+  orig: 150, 51
+  offset: 0, 0
+  index: -1
+squirrel_left_leg
+  rotate: true
+  xy: 2, 34
+  size: 81, 157
+  orig: 81, 157
+  offset: 0, 0
+  index: -1
+squirrel_mouth
+  rotate: false
+  xy: 2, 6
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+squirrel_mouth_dissapointed
+  rotate: false
+  xy: 763, 309
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+squirrel_mouth_happy
+  rotate: true
+  xy: 646, 171
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+squirrel_mouth_happy_bonus
+  rotate: false
+  xy: 406, 43
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+squirrel_mouth_worry
+  rotate: false
+  xy: 471, 134
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+squirrel_new_left_hand_part1
+  rotate: false
+  xy: 698, 246
+  size: 63, 106
+  orig: 63, 106
+  offset: 0, 0
+  index: -1
+squirrel_new_right_hand_part1
+  rotate: true
+  xy: 539, 178
+  size: 52, 105
+  orig: 52, 105
+  offset: 0, 0
+  index: -1
+squirrel_nut
+  rotate: false
+  xy: 539, 315
+  size: 157, 195
+  orig: 157, 195
+  offset: 0, 0
+  index: -1
+squirrel_right_ear
+  rotate: false
+  xy: 698, 354
+  size: 79, 103
+  orig: 79, 103
+  offset: 0, 0
+  index: -1
+squirrel_right_eye
+  rotate: false
+  xy: 338, 38
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+squirrel_right_eye_dissapointed
+  rotate: true
+  xy: 849, 368
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+squirrel_right_eye_dissapointed part 2
+  rotate: false
+  xy: 406, 2
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+squirrel_right_eye_dissapointed_part 4
+  rotate: false
+  xy: 63, 12
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+squirrel_right_eye_happy_bonus
+  rotate: true
+  xy: 850, 442
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+squirrel_right_hand_part2
+  rotate: false
+  xy: 698, 459
+  size: 150, 51
+  orig: 150, 51
+  offset: 0, 0
+  index: -1
+squirrel_right_leg
+  rotate: true
+  xy: 539, 232
+  size: 81, 157
+  orig: 81, 157
+  offset: 0, 0
+  index: -1
+squirrel_tail
+  rotate: false
+  xy: 319, 173
+  size: 218, 337
+  orig: 218, 337
+  offset: 0, 0
+  index: -1

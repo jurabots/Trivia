@@ -1,0 +1,53 @@
+{
+  "name": "trivia_game",
+  "version": "1.0.0",
+  "description": "Classic Trivia game",
+  "main": "dist/bundle.js",
+  "dependencies": {
+    "@microsoft/signalr": "^3.1.15",
+    "@types/node": "^14.17.0",
+    "copy-webpack-plugin": "^6.4.1",
+    "gsap": "^2.1.3",
+    "mini-css-extract-plugin": "^1.6.0",
+    "pixi-spine": "1.5.21",
+    "pixi.js": "4.7.3"
+  },
+  "devDependencies": {
+    "@types/pixi.js": "^5.0.0",
+    "@types/webfontloader": "^1.6.32",
+    "awesome-typescript-loader": "^5.2.1",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-async-to-module-method": "^6.24.1",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^1.0.1",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^2.0.0",
+    "regenerator": "^0.13.4",
+    "style-loader": "^0.21.0",
+    "ts-loader": "^5.4.5",
+    "typescript": "^3.9.9",
+    "uglifyjs-webpack-plugin": "^1.3.0",
+    "url-loader": "^1.1.2",
+    "webfontloader": "^1.6.28",
+    "webpack": "^4.46.0",
+    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel",
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development --watch",
+    "watch": "webpack --watch"
+  },
+  "keywords": [
+    "trivia"
+  ],
+  "author": "Polina Liolia",
+  "license": "ISC"
+}

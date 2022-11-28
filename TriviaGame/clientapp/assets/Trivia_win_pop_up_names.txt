@@ -1,0 +1,7 @@
+ИМЯ ФАЙЛА     - НАЗВАНИЕ КОСТИ
+trivia_frame4 - tittle_bone
+trivia_frame1 - purple_btn_bone
+trivia_frame2 - pink_btn_bone
+trivia_coin   - coin_icon_bone (на всякий случай, эта монетка находится на кнопке)
+trivia_ava1   - left_avatar_bone
+trivia_ava2   - right_avatar_bone

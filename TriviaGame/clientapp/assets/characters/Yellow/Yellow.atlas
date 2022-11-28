@@ -1,0 +1,146 @@
+
+Yellow.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yellow_body
+  rotate: false
+  xy: 2, 111
+  size: 320, 399
+  orig: 320, 399
+  offset: 0, 0
+  index: -1
+yellow_eye_big_left
+  rotate: false
+  xy: 456, 249
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+yellow_eye_big_right
+  rotate: false
+  xy: 636, 407
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+yellow_eye_disappointed_left
+  rotate: false
+  xy: 785, 467
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+yellow_eye_disappointed_right
+  rotate: false
+  xy: 733, 467
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+yellow_eye_left
+  rotate: false
+  xy: 508, 267
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+yellow_eye_r
+  rotate: false
+  xy: 688, 425
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+yellow_eye_right
+  rotate: false
+  xy: 2, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+yellow_forearm_left
+  rotate: false
+  xy: 409, 225
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+yellow_forearm_right
+  rotate: false
+  xy: 589, 379
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+yellow_hair
+  rotate: false
+  xy: 2, 25
+  size: 110, 84
+  orig: 110, 84
+  offset: 0, 0
+  index: -1
+yellow_leg_left
+  rotate: false
+  xy: 324, 349
+  size: 83, 161
+  orig: 83, 161
+  offset: 0, 0
+  index: -1
+yellow_leg_right
+  rotate: false
+  xy: 324, 194
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+yellow_mouth
+  rotate: false
+  xy: 211, 75
+  size: 95, 34
+  orig: 95, 34
+  offset: 0, 0
+  index: -1
+yellow_mouth_disappointed
+  rotate: false
+  xy: 114, 58
+  size: 95, 51
+  orig: 95, 51
+  offset: 0, 0
+  index: -1
+yellow_mouth_smile
+  rotate: false
+  xy: 636, 472
+  size: 95, 38
+  orig: 95, 38
+  offset: 0, 0
+  index: -1
+yellow_mouth_worry
+  rotate: false
+  xy: 456, 314
+  size: 95, 42
+  orig: 95, 42
+  offset: 0, 0
+  index: -1
+yellow_shoulder_left
+  rotate: false
+  xy: 409, 358
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+yellow_shoulder_right
+  rotate: false
+  xy: 499, 358
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+yellow_tongue
+  rotate: false
+  xy: 324, 128
+  size: 75, 64
+  orig: 75, 64
+  offset: 0, 0
+  index: -1

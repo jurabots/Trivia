@@ -1,0 +1,223 @@
+
+Megadog_character.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+megadog_body1
+  rotate: false
+  xy: 2, 85
+  size: 332, 418
+  orig: 332, 418
+  offset: 0, 0
+  index: -1
+megadog_body2
+  rotate: false
+  xy: 788, 404
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+megadog_brow_left
+  rotate: false
+  xy: 229, 34
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+megadog_brow_left1
+  rotate: false
+  xy: 336, 79
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+megadog_brow_right
+  rotate: false
+  xy: 132, 34
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+megadog_brow_right1
+  rotate: false
+  xy: 336, 127
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+megadog_ear_left
+  rotate: false
+  xy: 336, 338
+  size: 105, 165
+  orig: 105, 165
+  offset: 0, 0
+  index: -1
+megadog_ear_right
+  rotate: false
+  xy: 443, 342
+  size: 107, 161
+  orig: 107, 161
+  offset: 0, 0
+  index: -1
+megadog_eye1_left
+  rotate: false
+  xy: 322, 31
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+megadog_eye1_right
+  rotate: false
+  xy: 365, 32
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+megadog_eye2_left
+  rotate: false
+  xy: 419, 200
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+megadog_eye2_right
+  rotate: false
+  xy: 419, 158
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+megadog_eye3_left
+  rotate: false
+  xy: 419, 243
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+megadog_eye3_right
+  rotate: false
+  xy: 419, 290
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+megadog_eye4_left
+  rotate: false
+  xy: 965, 406
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+megadog_eye4_right
+  rotate: false
+  xy: 965, 455
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+megadog_eyelid_left
+  rotate: false
+  xy: 735, 349
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+megadog_eyelid_right
+  rotate: false
+  xy: 634, 347
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+megadog_hair
+  rotate: false
+  xy: 2, 15
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1
+megadog_hand_left1
+  rotate: false
+  xy: 634, 380
+  size: 75, 123
+  orig: 75, 123
+  offset: 0, 0
+  index: -1
+megadog_hand_left2
+  rotate: false
+  xy: 920, 389
+  size: 43, 114
+  orig: 43, 114
+  offset: 0, 0
+  index: -1
+megadog_hand_right1
+  rotate: false
+  xy: 711, 380
+  size: 75, 123
+  orig: 75, 123
+  offset: 0, 0
+  index: -1
+megadog_hand_right2
+  rotate: false
+  xy: 874, 389
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+megadog_leg_left
+  rotate: false
+  xy: 336, 179
+  size: 81, 157
+  orig: 81, 157
+  offset: 0, 0
+  index: -1
+megadog_leg_right
+  rotate: false
+  xy: 552, 346
+  size: 80, 157
+  orig: 80, 157
+  offset: 0, 0
+  index: -1
+megadog_mouth1
+  rotate: false
+  xy: 2, 2
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+megadog_mouth2
+  rotate: false
+  xy: 788, 372
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+megadog_mouth3
+  rotate: false
+  xy: 965, 390
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+megadog_mouth4
+  rotate: false
+  xy: 419, 130
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+megadog_nose
+  rotate: false
+  xy: 685, 346
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+megadog_tongue
+  rotate: false
+  xy: 837, 370
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1

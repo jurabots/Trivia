@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseCreateManager", "DatabaseCreateManager.csproj", "{11C2D8E4-CE18-4E8D-B7B1-E5AB09572C15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatabaseUtilites", "DatabaseUtilites", "{F3F9CF51-8318-4067-AC9E-DD033237968D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{DB5EE67C-EDE9-41DE-B741-EE0E57A0D3A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "..\Entities\Entities.csproj", "{1F8BC274-0D56-4B0A-A8E1-D0774CAB8A75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TriviaGameWeb", "TriviaGameWeb", "{D325DC17-6E65-4645-A2B1-308C3C952E3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TriviaGame", "..\TriviaGame\TriviaGame.csproj", "{9F913489-3798-4FA3-92F2-F5CAC1C03474}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server.Logic", "Server.Logic", "{31AA6F5B-963B-4128-BC10-C1DF6080F452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{A1AFE650-BAFD-4CF8-A1EE-8F8749D69D00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C2D8E4-CE18-4E8D-B7B1-E5AB09572C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C2D8E4-CE18-4E8D-B7B1-E5AB09572C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C2D8E4-CE18-4E8D-B7B1-E5AB09572C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C2D8E4-CE18-4E8D-B7B1-E5AB09572C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8BC274-0D56-4B0A-A8E1-D0774CAB8A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8BC274-0D56-4B0A-A8E1-D0774CAB8A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8BC274-0D56-4B0A-A8E1-D0774CAB8A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8BC274-0D56-4B0A-A8E1-D0774CAB8A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F913489-3798-4FA3-92F2-F5CAC1C03474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F913489-3798-4FA3-92F2-F5CAC1C03474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F913489-3798-4FA3-92F2-F5CAC1C03474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F913489-3798-4FA3-92F2-F5CAC1C03474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1AFE650-BAFD-4CF8-A1EE-8F8749D69D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AFE650-BAFD-4CF8-A1EE-8F8749D69D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AFE650-BAFD-4CF8-A1EE-8F8749D69D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AFE650-BAFD-4CF8-A1EE-8F8749D69D00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{11C2D8E4-CE18-4E8D-B7B1-E5AB09572C15} = {F3F9CF51-8318-4067-AC9E-DD033237968D}
+		{1F8BC274-0D56-4B0A-A8E1-D0774CAB8A75} = {DB5EE67C-EDE9-41DE-B741-EE0E57A0D3A2}
+		{9F913489-3798-4FA3-92F2-F5CAC1C03474} = {D325DC17-6E65-4645-A2B1-308C3C952E3A}
+		{A1AFE650-BAFD-4CF8-A1EE-8F8749D69D00} = {31AA6F5B-963B-4128-BC10-C1DF6080F452}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F52852F4-1A8F-4DB7-A5B4-8E463BC41212}
+	EndGlobalSection
+EndGlobal

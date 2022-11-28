@@ -1,0 +1,146 @@
+
+Blue.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_body
+  rotate: false
+  xy: 324, 110
+  size: 320, 399
+  orig: 320, 399
+  offset: 0, 0
+  index: -1
+blue_body 2
+  rotate: false
+  xy: 2, 110
+  size: 320, 399
+  orig: 320, 399
+  offset: 0, 0
+  index: -1
+blue_foot_left
+  rotate: false
+  xy: 906, 432
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+blue_foot_right
+  rotate: false
+  xy: 115, 59
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+blue_forearm_left
+  rotate: false
+  xy: 736, 223
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+blue_forearm_right
+  rotate: false
+  xy: 859, 378
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+blue_horn
+  rotate: false
+  xy: 783, 251
+  size: 56, 103
+  orig: 56, 103
+  offset: 0, 0
+  index: -1
+blue_leg_left
+  rotate: false
+  xy: 798, 356
+  size: 59, 153
+  orig: 59, 153
+  offset: 0, 0
+  index: -1
+blue_leg_right
+  rotate: false
+  xy: 736, 356
+  size: 60, 153
+  orig: 60, 153
+  offset: 0, 0
+  index: -1
+blue_mouth
+  rotate: false
+  xy: 115, 88
+  size: 111, 20
+  orig: 111, 20
+  offset: 0, 0
+  index: -1
+blue_mouth_disappointed
+  rotate: false
+  xy: 2, 48
+  size: 111, 60
+  orig: 111, 60
+  offset: 0, 0
+  index: -1
+blue_mouth_smile
+  rotate: false
+  xy: 2, 2
+  size: 110, 44
+  orig: 110, 44
+  offset: 0, 0
+  index: -1
+blue_mouth_worry
+  rotate: false
+  xy: 906, 461
+  size: 111, 48
+  orig: 111, 48
+  offset: 0, 0
+  index: -1
+blue_shoulder_left
+  rotate: false
+  xy: 646, 357
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+blue_shoulder_right
+  rotate: false
+  xy: 646, 203
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+eye_big
+  rotate: false
+  xy: 646, 138
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+eye_disappointed_left
+  rotate: false
+  xy: 906, 387
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+eye_disappointed_right
+  rotate: false
+  xy: 697, 158
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+red_eye_left
+  rotate: false
+  xy: 859, 357
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+red_eye_right
+  rotate: false
+  xy: 783, 230
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1

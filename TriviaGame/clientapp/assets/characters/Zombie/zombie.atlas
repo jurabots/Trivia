@@ -1,0 +1,153 @@
+
+zombie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zombie_body
+  rotate: false
+  xy: 2, 98
+  size: 320, 412
+  orig: 320, 412
+  offset: 0, 0
+  index: -1
+zombie_left_arm_part1
+  rotate: true
+  xy: 827, 458
+  size: 52, 123
+  orig: 52, 123
+  offset: 0, 0
+  index: -1
+zombie_left_arm_part2
+  rotate: false
+  xy: 652, 295
+  size: 49, 110
+  orig: 49, 110
+  offset: 0, 0
+  index: -1
+zombie_left_eye
+  rotate: false
+  xy: 459, 197
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+zombie_left_eye_disappointed
+  rotate: true
+  xy: 267, 2
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+zombie_left_eye_happy
+  rotate: false
+  xy: 499, 198
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+zombie_left_leg
+  rotate: false
+  xy: 324, 115
+  size: 74, 124
+  orig: 74, 124
+  offset: 0, 0
+  index: -1
+zombie_mouth
+  rotate: false
+  xy: 827, 429
+  size: 111, 27
+  orig: 111, 27
+  offset: 0, 0
+  index: -1
+zombie_mouth 2
+  rotate: false
+  xy: 129, 9
+  size: 111, 27
+  orig: 111, 27
+  offset: 0, 0
+  index: -1
+zombie_mouth_happy_bonus
+  rotate: true
+  xy: 580, 278
+  size: 127, 70
+  orig: 127, 70
+  offset: 0, 0
+  index: -1
+zombie_mouth_open
+  rotate: false
+  xy: 2, 3
+  size: 125, 93
+  orig: 125, 93
+  offset: 0, 0
+  index: -1
+zombie_right_arm_part1
+  rotate: true
+  xy: 129, 38
+  size: 58, 136
+  orig: 58, 136
+  offset: 0, 0
+  index: -1
+zombie_right_arm_part2
+  rotate: false
+  xy: 400, 128
+  size: 57, 111
+  orig: 57, 111
+  offset: 0, 0
+  index: -1
+zombie_right_eye
+  rotate: false
+  xy: 459, 148
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+zombie_right_eye_disappointed
+  rotate: false
+  xy: 267, 43
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+zombie_right_eye_happy
+  rotate: false
+  xy: 499, 149
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+zombie_right_leg
+  rotate: true
+  xy: 702, 434
+  size: 76, 123
+  orig: 76, 123
+  offset: 0, 0
+  index: -1
+zombie_saliva
+  rotate: true
+  xy: 952, 472
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+zombie_snake_body
+  rotate: false
+  xy: 324, 407
+  size: 376, 103
+  orig: 376, 103
+  offset: 0, 0
+  index: -1
+zombie_snake_head
+  rotate: false
+  xy: 454, 247
+  size: 124, 158
+  orig: 124, 158
+  offset: 0, 0
+  index: -1
+zombie_snake_tail
+  rotate: false
+  xy: 324, 241
+  size: 128, 164
+  orig: 128, 164
+  offset: 0, 0
+  index: -1

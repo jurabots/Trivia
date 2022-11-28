@@ -1,0 +1,146 @@
+
+Gem_monster_character.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_monster_body
+  rotate: false
+  xy: 2, 95
+  size: 320, 399
+  orig: 320, 399
+  offset: 0, 0
+  index: -1
+g_monster_eye1
+  rotate: false
+  xy: 77, 12
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+g_monster_eye2
+  rotate: false
+  xy: 115, 18
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+g_monster_eye3
+  rotate: false
+  xy: 423, 140
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+g_monster_eye4
+  rotate: false
+  xy: 173, 68
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+g_monster_gem1
+  rotate: false
+  xy: 324, 183
+  size: 147, 143
+  orig: 147, 143
+  offset: 0, 0
+  index: -1
+g_monster_gem2
+  rotate: false
+  xy: 324, 328
+  size: 220, 166
+  orig: 220, 166
+  offset: 0, 0
+  index: -1
+g_monster_gem3
+  rotate: false
+  xy: 689, 346
+  size: 106, 148
+  orig: 106, 148
+  offset: 0, 0
+  index: -1
+g_monster_gem4
+  rotate: false
+  xy: 2, 2
+  size: 73, 91
+  orig: 73, 91
+  offset: 0, 0
+  index: -1
+g_monster_gem5
+  rotate: false
+  xy: 220, 64
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+g_monster_hand
+  rotate: false
+  xy: 965, 274
+  size: 44, 220
+  orig: 44, 220
+  offset: 0, 0
+  index: -1
+g_monster_leg
+  rotate: false
+  xy: 797, 334
+  size: 82, 160
+  orig: 82, 160
+  offset: 0, 0
+  index: -1
+g_monster_light
+  rotate: false
+  xy: 546, 353
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+g_monster_mouth1
+  rotate: false
+  xy: 546, 330
+  size: 93, 21
+  orig: 93, 21
+  offset: 0, 0
+  index: -1
+g_monster_mouth2
+  rotate: false
+  xy: 77, 60
+  size: 94, 33
+  orig: 94, 33
+  offset: 0, 0
+  index: -1
+g_monster_mouth3
+  rotate: false
+  xy: 324, 95
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+g_monster_mouth4
+  rotate: false
+  xy: 324, 136
+  size: 97, 45
+  orig: 97, 45
+  offset: 0, 0
+  index: -1
+g_monster_mouth5
+  rotate: false
+  xy: 641, 330
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+g_monster_r_hand
+  rotate: false
+  xy: 473, 106
+  size: 44, 220
+  orig: 44, 220
+  offset: 0, 0
+  index: -1
+g_monster_r_leg
+  rotate: false
+  xy: 881, 334
+  size: 82, 160
+  orig: 82, 160
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,467 @@
+
+Trivia_gameplay_animation.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_update_top
+  rotate: false
+  xy: 2, 625
+  size: 1126, 1419
+  orig: 1126, 1419
+  offset: 0, 0
+  index: -1
+book_particles_00000
+  rotate: false
+  xy: 1414, 1746
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00001
+  rotate: false
+  xy: 129, 95
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00002
+  rotate: false
+  xy: 360, 325
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00003
+  rotate: false
+  xy: 1631, 1746
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00004
+  rotate: false
+  xy: 1163, 1270
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00005
+  rotate: false
+  xy: 1130, 1103
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00006
+  rotate: false
+  xy: 1130, 936
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00007
+  rotate: false
+  xy: 1130, 769
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00008
+  rotate: false
+  xy: 1130, 602
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00009
+  rotate: false
+  xy: 1414, 1579
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00010
+  rotate: false
+  xy: 1631, 1579
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00011
+  rotate: false
+  xy: 577, 325
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00012
+  rotate: false
+  xy: 794, 389
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00013
+  rotate: false
+  xy: 794, 222
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+book_particles_00014
+  rotate: false
+  xy: 360, 158
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+colba_particles_00000
+  rotate: false
+  xy: 1464, 1482
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00001
+  rotate: false
+  xy: 1541, 1482
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00002
+  rotate: false
+  xy: 1618, 1482
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00003
+  rotate: false
+  xy: 1695, 1482
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00004
+  rotate: false
+  xy: 1487, 1385
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00005
+  rotate: false
+  xy: 1487, 1288
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00006
+  rotate: false
+  xy: 1564, 1385
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00007
+  rotate: false
+  xy: 1641, 1385
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00008
+  rotate: false
+  xy: 1564, 1288
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00009
+  rotate: false
+  xy: 1641, 1288
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00010
+  rotate: false
+  xy: 1570, 1191
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00011
+  rotate: false
+  xy: 1570, 1094
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00012
+  rotate: false
+  xy: 1647, 1191
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00013
+  rotate: false
+  xy: 1647, 1094
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+colba_particles_00014
+  rotate: false
+  xy: 1718, 1385
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+column
+  rotate: false
+  xy: 2, 2
+  size: 125, 488
+  orig: 125, 488
+  offset: 0, 0
+  index: -1
+cometa
+  rotate: false
+  xy: 1943, 1950
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 1380, 1278
+  size: 105, 184
+  orig: 105, 184
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 1452, 1099
+  size: 116, 177
+  orig: 116, 177
+  offset: 0, 0
+  index: -1
+tr_red_particle_00000
+  rotate: false
+  xy: 577, 123
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00001
+  rotate: false
+  xy: 1347, 861
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00002
+  rotate: false
+  xy: 1347, 659
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00003
+  rotate: false
+  xy: 1848, 1733
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00004
+  rotate: false
+  xy: 1848, 1531
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00005
+  rotate: false
+  xy: 1011, 354
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00006
+  rotate: false
+  xy: 1142, 400
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00008
+  rotate: false
+  xy: 1273, 400
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00009
+  rotate: false
+  xy: 1011, 152
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00010
+  rotate: false
+  xy: 1142, 198
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00011
+  rotate: false
+  xy: 1273, 198
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00012
+  rotate: false
+  xy: 1404, 457
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00013
+  rotate: false
+  xy: 1404, 255
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tr_red_particle_00014
+  rotate: false
+  xy: 1404, 53
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+trivia_button1
+  rotate: false
+  xy: 1130, 1913
+  size: 700, 131
+  orig: 700, 131
+  offset: 0, 0
+  index: -1
+trivia_button1_active
+  rotate: false
+  xy: 2, 492
+  size: 701, 131
+  orig: 701, 131
+  offset: 0, 0
+  index: -1
+trivia_candle
+  rotate: false
+  xy: 1029, 559
+  size: 24, 64
+  orig: 24, 64
+  offset: 0, 0
+  index: -1
+trivia_feather
+  rotate: false
+  xy: 129, 15
+  size: 167, 78
+  orig: 167, 78
+  offset: 0, 0
+  index: -1
+trivia_lamp
+  rotate: false
+  xy: 1347, 1063
+  size: 103, 205
+  orig: 103, 205
+  offset: 0, 0
+  index: -1
+trivia_light
+  rotate: false
+  xy: 1368, 1464
+  size: 94, 113
+  orig: 94, 113
+  offset: 0, 0
+  index: -1
+trivia_scroll_part1
+  rotate: false
+  xy: 1130, 1311
+  size: 31, 600
+  orig: 31, 600
+  offset: 0, 0
+  index: -1
+trivia_scroll_part2
+  rotate: false
+  xy: 708, 201
+  size: 70, 122
+  orig: 70, 122
+  offset: 0, 0
+  index: -1
+trivia_shadow
+  rotate: false
+  xy: 705, 556
+  size: 322, 67
+  orig: 322, 67
+  offset: 0, 0
+  index: -1
+trivia_shine
+  rotate: false
+  xy: 1368, 1605
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+trivia_shine1
+  rotate: false
+  xy: 1718, 1308
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+trivia_shine2
+  rotate: false
+  xy: 1832, 1935
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+trivia_shine3
+  rotate: false
+  xy: 129, 262
+  size: 229, 228
+  orig: 229, 228
+  offset: 0, 0
+  index: -1
+trivia_shine4
+  rotate: false
+  xy: 1163, 1651
+  size: 249, 260
+  orig: 249, 260
+  offset: 0, 0
+  index: -1
+trivia_shine5
+  rotate: false
+  xy: 1163, 1437
+  size: 203, 212
+  orig: 203, 212
+  offset: 0, 0
+  index: -1
+
+Trivia_gameplay_animation2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_update_bottom
+  rotate: false
+  xy: 2, 2
+  size: 1126, 1046
+  orig: 1126, 1046
+  offset: 0, 0
+  index: -1

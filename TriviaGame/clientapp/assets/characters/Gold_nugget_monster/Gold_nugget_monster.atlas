@@ -1,0 +1,160 @@
+
+Gold_nugget_monster.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/l_g_gold_nugget_m_ch_body_2_01
+  rotate: false
+  xy: 2, 109
+  size: 320, 401
+  orig: 320, 401
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_body_2_01_spark
+  rotate: false
+  xy: 324, 281
+  size: 307, 229
+  orig: 307, 229
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_eye_left_disappointed
+  rotate: false
+  xy: 225, 14
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_eye_left_happy
+  rotate: false
+  xy: 112, 6
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_eye_left_idle
+  rotate: false
+  xy: 634, 144
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_eye_right_disappointed
+  rotate: false
+  xy: 746, 355
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_eye_right_happy
+  rotate: false
+  xy: 151, 6
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_eye_right_idle
+  rotate: false
+  xy: 672, 145
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_foot_left
+  rotate: false
+  xy: 225, 80
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_foot_right
+  rotate: false
+  xy: 225, 51
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_forearm_left
+  rotate: false
+  xy: 695, 214
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_forearm_right
+  rotate: false
+  xy: 742, 214
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_hair_1
+  rotate: false
+  xy: 324, 123
+  size: 246, 156
+  orig: 246, 156
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_hair_1_spark
+  rotate: false
+  xy: 633, 393
+  size: 177, 117
+  orig: 177, 117
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_leg_left
+  rotate: false
+  xy: 572, 126
+  size: 60, 153
+  orig: 60, 153
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_leg_right
+  rotate: false
+  xy: 634, 192
+  size: 59, 153
+  orig: 59, 153
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_mouth_disappointed
+  rotate: false
+  xy: 112, 52
+  size: 111, 55
+  orig: 111, 55
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_mouth_happy
+  rotate: false
+  xy: 633, 347
+  size: 111, 44
+  orig: 111, 44
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_mouth_idle
+  rotate: false
+  xy: 112, 30
+  size: 111, 20
+  orig: 111, 20
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_shoulder_left
+  rotate: false
+  xy: 812, 358
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_shoulder_right
+  rotate: false
+  xy: 902, 358
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+images/l_g_gold_nugget_m_ch_spark
+  rotate: false
+  xy: 2, 2
+  size: 108, 105
+  orig: 108, 105
+  offset: 0, 0
+  index: -1

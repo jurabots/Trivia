@@ -1,0 +1,167 @@
+
+Dinorobot_character.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dino_body1
+  rotate: false
+  xy: 2, 99
+  size: 328, 403
+  orig: 328, 403
+  offset: 0, 0
+  index: -1
+dino_body2
+  rotate: false
+  xy: 930, 404
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+dino_body3
+  rotate: false
+  xy: 499, 90
+  size: 115, 112
+  orig: 115, 112
+  offset: 0, 0
+  index: -1
+dino_body_light1
+  rotate: false
+  xy: 818, 402
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+dino_body_light2
+  rotate: false
+  xy: 285, 63
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dino_eye
+  rotate: false
+  xy: 285, 22
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+dino_eye1
+  rotate: false
+  xy: 841, 340
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dino_eyelid
+  rotate: false
+  xy: 598, 225
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+dino_glasses_1
+  rotate: false
+  xy: 2, 2
+  size: 281, 95
+  orig: 281, 95
+  offset: 0, 0
+  index: -1
+dino_glasses_2
+  rotate: false
+  xy: 437, 450
+  size: 260, 52
+  orig: 260, 52
+  offset: 0, 0
+  index: -1
+dino_hand
+  rotate: false
+  xy: 332, 65
+  size: 114, 192
+  orig: 114, 192
+  offset: 0, 0
+  index: -1
+dino_horn
+  rotate: false
+  xy: 783, 268
+  size: 56, 103
+  orig: 56, 103
+  offset: 0, 0
+  index: -1
+dino_leg
+  rotate: false
+  xy: 598, 285
+  size: 84, 163
+  orig: 84, 163
+  offset: 0, 0
+  index: -1
+dino_mouth
+  rotate: false
+  xy: 513, 75
+  size: 62, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+dino_mouth1
+  rotate: false
+  xy: 448, 65
+  size: 63, 23
+  orig: 63, 23
+  offset: 0, 0
+  index: -1
+dino_mouth2
+  rotate: false
+  xy: 818, 377
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+dino_mouth3
+  rotate: false
+  xy: 598, 257
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+dino_wing_1
+  rotate: false
+  xy: 332, 259
+  size: 103, 243
+  orig: 103, 243
+  offset: 0, 0
+  index: -1
+dino_wing_2
+  rotate: false
+  xy: 437, 303
+  size: 159, 145
+  orig: 159, 145
+  offset: 0, 0
+  index: -1
+dino_wing_3
+  rotate: false
+  xy: 699, 373
+  size: 117, 129
+  orig: 117, 129
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 448, 90
+  size: 49, 211
+  orig: 49, 211
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 499, 204
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 684, 274
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1

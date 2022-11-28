@@ -1,0 +1,12 @@
+Red_Happy_end
+Red_Happy_loop
+Red_Happy_st
+Red_idle_gameplay_end
+Red_idle_gameplay_loop
+Red_idle_gameplay_st
+Red_idle_lobby_end
+Red_idle_lobby_loop
+Red_idle_lobby_st
+Red_sad_end
+Red_sad_loop
+Red_sad_st

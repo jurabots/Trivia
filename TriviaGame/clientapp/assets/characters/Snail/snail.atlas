@@ -1,0 +1,188 @@
+
+snail.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_g_s_snail_cut_snail_arm_left_1
+  rotate: true
+  xy: 202, 27
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_arm_left_2-
+  rotate: false
+  xy: 877, 121
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_arm_r_1
+  rotate: false
+  xy: 811, 98
+  size: 64, 133
+  orig: 64, 133
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_arm_ri_2
+  rotate: true
+  xy: 399, 50
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_body
+  rotate: false
+  xy: 399, 103
+  size: 320, 400
+  orig: 320, 400
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_eye_base_l
+  rotate: false
+  xy: 909, 392
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_eye_base_r
+  rotate: false
+  xy: 721, 120
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_h_bonus_eye_l
+  rotate: false
+  xy: 511, 44
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_h_bonus_eye_r
+  rotate: false
+  xy: 337, 34
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_h_bonus_mouth
+  rotate: true
+  xy: 929, 276
+  size: 114, 63
+  orig: 114, 63
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_h_card_eye_l
+  rotate: true
+  xy: 686, 44
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_h_card_eye_r
+  rotate: false
+  xy: 738, 68
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_h_card_mouth
+  rotate: false
+  xy: 2, 25
+  size: 198, 66
+  orig: 198, 66
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_idle_eye_l
+  rotate: true
+  xy: 999, 433
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_idle_eye_r
+  rotate: true
+  xy: 999, 433
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_idle_mouth
+  rotate: true
+  xy: 891, 252
+  size: 121, 36
+  orig: 121, 36
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_leg_l
+  rotate: false
+  xy: 721, 233
+  size: 83, 140
+  orig: 83, 140
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_leg_r
+  rotate: false
+  xy: 806, 233
+  size: 83, 140
+  orig: 83, 140
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_sad_eye_l
+  rotate: false
+  xy: 929, 241
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_sad_eye_r
+  rotate: true
+  xy: 930, 178
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_sad_mouth
+  rotate: false
+  xy: 721, 375
+  size: 186, 128
+  orig: 186, 128
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_shell_2
+  rotate: false
+  xy: 2, 93
+  size: 395, 410
+  orig: 395, 410
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_worry_eye_l
+  rotate: false
+  xy: 570, 45
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_worry_eye_r
+  rotate: false
+  xy: 628, 45
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_worry_mouth
+  rotate: false
+  xy: 2, 2
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+l_g_s_snail_cut_snail_worry_tear
+  rotate: true
+  xy: 891, 233
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1

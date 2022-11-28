@@ -1,0 +1,132 @@
+
+Red_character.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_big
+  rotate: false
+  xy: 108, 2
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+eye_disappointed_left
+  rotate: false
+  xy: 418, 157
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+eye_disappointed_right
+  rotate: false
+  xy: 159, 22
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+mouth_disappointed
+  rotate: false
+  xy: 2, 51
+  size: 104, 57
+  orig: 104, 57
+  offset: 0, 0
+  index: -1
+mouth_scared
+  rotate: false
+  xy: 2, 4
+  size: 104, 45
+  orig: 104, 45
+  offset: 0, 0
+  index: -1
+mouth_smile_new
+  rotate: false
+  xy: 108, 67
+  size: 104, 41
+  orig: 104, 41
+  offset: 0, 0
+  index: -1
+red_body
+  rotate: false
+  xy: 2, 110
+  size: 319, 400
+  orig: 319, 400
+  offset: 0, 0
+  index: -1
+red_eye_left
+  rotate: false
+  xy: 418, 136
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+red_eye_right
+  rotate: false
+  xy: 418, 115
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+red_foot_left
+  rotate: false
+  xy: 210, 30
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+red_foot_right
+  rotate: false
+  xy: 214, 59
+  size: 83, 26
+  orig: 83, 26
+  offset: 0, 0
+  index: -1
+red_forearm_left
+  rotate: false
+  xy: 323, 71
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+red_forearm_right
+  rotate: false
+  xy: 371, 69
+  size: 45, 131
+  orig: 45, 131
+  offset: 0, 0
+  index: -1
+red_leg_left
+  rotate: false
+  xy: 413, 202
+  size: 59, 153
+  orig: 59, 153
+  offset: 0, 0
+  index: -1
+red_leg_right
+  rotate: false
+  xy: 413, 357
+  size: 60, 153
+  orig: 60, 153
+  offset: 0, 0
+  index: -1
+red_mouth
+  rotate: false
+  xy: 214, 87
+  size: 104, 21
+  orig: 104, 21
+  offset: 0, 0
+  index: -1
+red_shoulder_left
+  rotate: false
+  xy: 323, 358
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+red_shoulder_right
+  rotate: false
+  xy: 323, 204
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1

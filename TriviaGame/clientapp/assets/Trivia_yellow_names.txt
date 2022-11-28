@@ -1,0 +1,12 @@
+Yellow_Happy_end
+Yellow_Happy_loop
+Yellow_Happy_st
+Yellow_Idle_gameplay_end
+Yellow_Idle_gameplay_loop
+Yellow_Idle_gameplay_st
+Yellow_Idle_lobby_end
+Yellow_Idle_lobby_loop
+Yellow_Idle_lobby_st
+Yellow_sad_end
+Yellow_sad_loop
+Yellow_sad_st

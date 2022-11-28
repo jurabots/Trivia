@@ -1,0 +1,104 @@
+
+Trivia_pop_up_win.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/trivia_ava1
+  rotate: false
+  xy: 1399, 239
+  size: 289, 288
+  orig: 289, 288
+  offset: 0, 0
+  index: -1
+images/trivia_ava2
+  rotate: false
+  xy: 1653, 1756
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+images/trivia_coin
+  rotate: false
+  xy: 1653, 1461
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+images/trivia_cub
+  rotate: false
+  xy: 916, 234
+  size: 481, 293
+  orig: 481, 293
+  offset: 0, 0
+  index: -1
+images/trivia_dark
+  rotate: false
+  xy: 2, 72
+  size: 912, 1974
+  orig: 912, 1974
+  offset: 0, 0
+  index: -1
+images/trivia_feather1
+  rotate: false
+  xy: 1653, 1512
+  size: 320, 242
+  orig: 320, 242
+  offset: 0, 0
+  index: -1
+images/trivia_feather2
+  rotate: false
+  xy: 1690, 285
+  size: 320, 242
+  orig: 320, 242
+  offset: 0, 0
+  index: -1
+images/trivia_frame1
+  rotate: false
+  xy: 916, 529
+  size: 810, 190
+  orig: 810, 190
+  offset: 0, 0
+  index: -1
+images/trivia_frame2
+  rotate: false
+  xy: 916, 721
+  size: 810, 191
+  orig: 810, 191
+  offset: 0, 0
+  index: -1
+images/trivia_frame4
+  rotate: false
+  xy: 916, 1065
+  size: 924, 249
+  orig: 924, 249
+  offset: 0, 0
+  index: -1
+images/trivia_frame_p1
+  rotate: false
+  xy: 916, 1316
+  size: 735, 730
+  orig: 735, 730
+  offset: 0, 0
+  index: -1
+images/trivia_frame_p2
+  rotate: false
+  xy: 916, 914
+  size: 874, 149
+  orig: 874, 149
+  offset: 0, 0
+  index: -1
+images/trivia_shine1
+  rotate: false
+  xy: 1399, 2
+  size: 234, 235
+  orig: 234, 235
+  offset: 0, 0
+  index: -1
+images/trivia_shine2
+  rotate: false
+  xy: 916, 11
+  size: 222, 221
+  orig: 222, 221
+  offset: 0, 0
+  index: -1
