@@ -1,3 +1,9 @@
+### Requirements
+* .net core 3.0+
+* .node.js v.14.17.6
+* npm lastest stable
+* MS SQL Server
+
 # Application development (Create folder for this project)
 
 ### Create Trivia database
@@ -41,7 +47,7 @@ dotnet build --configuration Release
 Application is compiled to the `\TriviaGame\bin\Release\net6.0\ folder
 
 ##Run Server for client
-Navigate to the `\TriviaGame\clientapp\dist path of your file folder in CMD and run the command 
+Navigate to the `\TriviaGame\clientapp\dist path of your file folder in CMD as administrator and run the command 
 
 ```bash
 http-server
