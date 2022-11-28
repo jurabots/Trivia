@@ -1,5 +1,5 @@
 ### Requirements
-* .net core 3.0+
+* .net core 6.0+
 * .node.js v.14.17.6
 * npm lastest stable
 * MS SQL Server
