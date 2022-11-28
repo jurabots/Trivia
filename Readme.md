@@ -12,6 +12,7 @@
 This instructins will help you to create MS SQL database and run DatabaseCreateManager project which create and fill database. Please run one of setup scenarios to create Trivia DB.
 
 ## Setup
+
 -Copy your MS SQL Server path(connetion string) to `\Entities\Consts\ConnectionString.cs
 -Navigate to `\DatabaseCreateManager folder open it with CMD(GitBash) and use following command
 
@@ -26,7 +27,7 @@ This instructins will help you to create and and launch server for client.
 
 -Navigate to `\TriviaGame\clientapp folder open it with CMD(GitBash) and use following command
 
-``bash command 
+```bash command 
 npm install
 npm run dev
 ```
